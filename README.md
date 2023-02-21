@@ -14,7 +14,9 @@ the given sequences using the following scores. Default values for scores are as
 * affine gap penalty: gap opening penalty: -1, gap extension penalty: -0.5.
 
 <div>
+
 ## Usage
+  
 </div>
 
 * Install nodejs to your computer.
