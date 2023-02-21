@@ -1,8 +1,5 @@
-<div align="center" >
-
 # **Dynamic Pairwise Sequence Alignment Algorithm** 
-<hr>
-</div>
+
 
 In this assignment, we implement dynamic pairwise sequence alignment algorithm. We use this program to align DNA sequences. DNA sequences is 
 read from input file. We use gap and mismatch penalties, match scores while performing alignment. Our program finds the optimum alignment between 
