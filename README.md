@@ -1,7 +1,6 @@
 <div align="center" >
 
 # **Dynamic Pairwise Sequence Alignment Algorithm** 
-<br>
 <hr>
 </div>
 
