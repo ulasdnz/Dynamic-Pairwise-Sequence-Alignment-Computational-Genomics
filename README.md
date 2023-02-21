@@ -15,8 +15,9 @@ the given sequences using the following scores. Default values for scores are as
 <div>
 To run<br>
 </div>
-* Install nodejs to your computer
+
+* Install nodejs to your computer.
 * Open the terminal and navigate to project folder.
-* Run “node index.js” command
+* Run “node index.js” command.
 
 Default input file name is "test1.seq". You can change this by assigning FILEPATH variable on the second line of the code, to your own input file name.
