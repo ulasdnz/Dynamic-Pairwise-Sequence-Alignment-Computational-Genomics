@@ -7,7 +7,8 @@
 
 In this assignment, we implement dynamic pairwise sequence alignment algorithm. We use this program to align DNA sequences. DNA sequences is 
 read from input file. We use gap and mismatch penalties, match scores while performing alignment. Our program finds the optimum alignment between 
-the given sequences using the following scores. Default values for scores are as follows:
+the given sequences using the following scores. Default values for scores are as follows: <br>
+
 • match score: +3
 • mismatch score: -1
 • affine gap penalty: gap opening penalty: -1, gap extension penalty: -0.5
